@@ -8,5 +8,5 @@ I have used `useEffect` hook to persist the data in local storage. So every time
 
 
 
-https://github.com/Ajinkyajoe/React-TodoList/assets/17193311/525c78ae-d140-46aa-ac3b-5ac81de8429e
+https://github.com/Ajinkyajoe/React-TodoList/assets/17193311/42e8a020-6258-418c-8e11-47f29600cf99
 
